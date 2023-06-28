@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CaPO4Sim"]
 	path = CaPO4Sim
 	url = https://github.com/divadnojnarg/capo4sim
-	shallow = true
-	registered = true
